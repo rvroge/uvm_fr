@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons.qrc</file>
+        <file>26x26/file.png</file>
+        <file>26x26/logo.png</file>
+        <file>32x32/file.png</file>
+        <file>32x32/logo.png</file>
+        <file>48x48/file.png</file>
+        <file>48x48/logo.png</file>
+        <file>64x64/file.png</file>
+        <file>64x64/logo.png</file>
+        <file>128x128/file.png</file>
+        <file>128x128/logo.png</file>
+    </qresource>
+</RCC>
